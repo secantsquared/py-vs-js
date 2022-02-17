@@ -801,7 +801,7 @@ switch (x) {
 ```
 
 ### Python
-*Note: match/case statements have been added to Python3.10+ - this section will be updated shortly to reflect this new addition*
+*Note: match/case statements have been added to Python3.10+ - this section will be updated shortly to reflect this new addition*  
 Python doesn't have a `switch` statement. You can use `if`-`elif`-`else` blocks.
 
 A somewhat clumsy approximation of a `switch` can be constructed with a `dict` of functions.
